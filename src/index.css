@@ -23,6 +23,7 @@ body {
 video {
   width: 100%;
   height: auto;
+  margin-bottom: 8px;
 }
 
 .progress-bar {

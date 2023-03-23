@@ -144,7 +144,7 @@ const VideoPlayer = ({ src }) => {
                         <AiFillMinusSquare />
                     </div>
                     <div className='speed'>
-                        0.25x
+                        {speed}x
                     </div>
                     <div className='plus' onClick={handleSpeedIncrease}>
                         <AiFillPlusSquare />
